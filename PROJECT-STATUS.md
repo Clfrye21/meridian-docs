@@ -24,7 +24,7 @@
 - **OpenVC account created** — profile complete at openvc.app
 - **Original deck scored 1.5/5** on OpenVC AI grader
 - **14-slide OpenVC-optimized structure created** by Claude (wording, slide titles, content)
-- **Deck visually rebuilt** by second AI using Claude's structure and wording
+- **Pitch deck rebuilt** — Claude wrote all content/structure, second AI handled visuals, Chris directed
 - **New deck scored 4.5/5 on OpenVC** (up from 1.5/5) — top tier submission
 - **Wefunder pitch text replaced** with new OpenVC-aligned investor copy
 - **Landing page rebuilt** by second AI using Claude's direction for wording/structure
@@ -41,13 +41,6 @@
 
 ---
 
-## 📂 PITCH DECK STATUS — TWO DECKS EXIST
-| Deck | Purpose | Score | Status |
-|---|---|---|---|
-| OpenVC/VC Deck (14 slides) | OpenVC submissions, VC outreach | 4.5/5 | ✅ Live on OpenVC |
-| Visual Deck | Wefunder, general investor presentations | N/A | ✅ In use |
-
----
 
 ## 🔗 KEY LINKS & CREDENTIALS
 | Resource | Value |
@@ -98,7 +91,7 @@ Repo: `github.com/Clfrye21/meridian-docs`
 - One change at a time using str_replace
 - Landing page: push to GitHub → Vercel auto-deploys in ~30s
 - Git Bash opens at `C:\Users\chris` — use `cd meridian` or `cd meridian-landing`
-- Second AI handles visual/design work; Claude handles wording, structure, strategy
+- Deck/design workflow: Claude writes all content + structure, second AI builds visuals, Chris directs
 
 ---
 
