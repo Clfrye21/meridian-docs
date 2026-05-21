@@ -13,11 +13,14 @@
 ---
 
 ## ✅ RECENTLY COMPLETED
-- Wefunder campaign LIVE and complete (5 products, Dual AI Moat)
-- InspectionIQ launched as 5th product on landing page + Wefunder
-- All 7 teasers posted
-- D-U-N-S profile established (#14-500-6786)
-- Phase 2 Tier 2 complete — all 18 modules built and verified (April 26, 2026)
+- **May 21:** meridian-docs context repo created and live (github.com/Clfrye21/meridian-docs)
+- **May 21:** Roncelli Senior QC Program Manager phone screen confirmed — May 28, 9–10am EST
+- **May 19:** D-U-N-S profile established (#14-500-6786)
+- **May 19:** B&V positive update — offer coming, Sept 15 mobilization, Bogalusa Solar 200MW
+- **May 16:** Wefunder LIVE — 5 products, Dual AI Moat, $4M cap, $120K goal
+- **May 16:** InspectionIQ launched as 5th product on landing page + Wefunder
+- **May 16:** All 7 teasers complete
+- **Apr 26:** Phase 2 Tier 2 complete — all 18 modules built and verified
 
 ---
 
@@ -48,12 +51,11 @@ Repo: `github.com/Clfrye21/meridian-docs`
 
 | Working on... | File to fetch |
 |---|---|
-| Phase 3 build planning | PHASE-3-BUILDOUT.md |
-| Investor outreach / emails | INVESTOR-OUTREACH.md |
+| Phase 3 build planning | PHASE-3-COMPLETE-BUILDOUT.md |
+| Investor outreach / emails | INVESTOR-OUTREACH-GUIDE.md |
 | Wefunder campaign details | WEFUNDER-CHECKLIST.md |
 | Teasers / social strategy | TEASER-STRATEGY.md |
 | Business portfolio / entities | BUSINESS-CONTEXT.md |
-| Product spec / module details | PRODUCT-SPEC.md |
 
 ---
 
