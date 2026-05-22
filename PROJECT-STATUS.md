@@ -1,54 +1,68 @@
 # PROJECT STATUS
-**Updated:** May 21, 2026 — ~2:30pm
+**Updated:** May 22, 2026 — 7:27am
 **Owner:** Chris Frye | chris@meridianfieldcommand.com
 
 ---
 
 ## 🎯 CURRENT PRIORITIES
-1. **OpenVC investor outreach — IN PROGRESS** — Tier 1 list being built now, 0 submissions made yet
+1. **OpenVC investor outreach — READY TO SEND** — Tier 1 list complete (10 targets), sending this morning
 2. Black & Veatch offer pending — Sept 15 mobilization, Bogalusa Solar 200MW
-3. Phase 3A Meridian build — Admin, PDF Filing, File Storage, Contracts, Locations
-4. Roncelli phone screen — Thursday May 28, 9–10am EST (Senior QC Program Manager, Taylor Henderson)
+3. Roncelli phone screen — Thursday May 28, 9–10am EST (Senior QC Program Manager, Taylor Henderson)
+4. Phase 3A Meridian build — Admin, PDF Filing, File Storage, Contracts, Locations
 
 ---
 
-## ✅ RECENTLY COMPLETED (May 19–21)
+## ✅ RECENTLY COMPLETED (May 21–22)
+
+### May 21, 2026 (evening)
+- **Tier 1 CRM list complete** — 10 investors added to OpenVC CRM
+- **Two custom outreach notes written** — Joey Kim (Takeoff Capital) and Heartland Ventures
+- **Default OpenVC template confirmed** — saved in OpenVC outreach settings, character-limit compliant
 
 ### May 21, 2026 (afternoon)
 - **Landing page Rev2 LIVE** at meridianfieldcommand.com
 - **Headshot replaced** — hardhat.JPG (solar panels background, DEPCOM POWER hard hat, high-res)
 - **Rev2 additions:** Field Stories section, FAQ section, founder quote restored, ZERO direct competitors stat, land-and-expand math, 2 inline Wefunder CTAs, Founder added back to nav
 - **meridian-docs context repo** created and live (github.com/Clfrye21/meridian-docs)
-- **Claude project cleaned up** — 2 lean files only (PROJECT-STATUS.md + BUSINESS-CONTEXT.md)
+- **Claude project cleaned up** — 2 lean files only
 
 ### May 20-21, 2026 (overnight)
-- **OpenVC account created** — profile complete at openvc.app
-- **Original deck scored 1.5/5** on OpenVC AI grader
-- **Pitch deck rebuilt** — Claude wrote all content/structure, second AI built visuals, Chris directed
-- **New deck scored 4.5/5 on OpenVC** — uploaded and active
-- **Wefunder pitch text completely rewritten** — new investor-optimized copy live
-- **Landing page rebuilt** by second AI using Claude's direction
-- **Project portfolio document created** — Christopher_Frye_Project_Portfolio.docx (navy blue)
-- **Resume updated** — "Independent Quality Management Consultant" for B&V application
+- **OpenVC account created** — profile complete, 4.5/5 deck uploaded
+- **Pitch deck rebuilt** — Claude wrote content/structure, second AI built visuals
+- **Wefunder pitch text completely rewritten**
+- **Landing page rebuilt** by second AI
 - **Fundraising strategy locked** — $120K Wefunder → $4K CPA review → second round
-- **DBE status researched**
-
-### May 19, 2026
-- **D-U-N-S profile established** — Firstgen Group LLC (#14-500-6786)
-- **B&V positive update** — offer coming, Sept 15 mobilization confirmed
-- **B&V thank-you email drafted and sent**
-- **INVESTOR-OUTREACH-GUIDE.md created**
 
 ---
 
 ## 📊 OPENVC OUTREACH STATUS
 - **Account:** Active at openvc.app
 - **Deck:** 4.5/5 scored deck uploaded and ready
-- **Submissions:** 0 sent
-- **Phase:** Phase 1 — Construction Tech investors first (Tier 1)
+- **Submissions:** 0 sent (sending this morning May 22)
+- **Phase:** Phase 1 — Tier 1 list (10 targets)
 - **Goal:** 10 submissions Week 1, 30 total by end of Week 2
-- **Next step:** Build Tier 1 Construction Tech investor list (10 targets)
-- **Templates ready:** 5 email templates in INVESTOR-OUTREACH-GUIDE.md on GitHub
+
+### TIER 1 CRM LIST (10 targets — send today)
+| # | Investor | Priority | Note Type | Contact |
+|---|---|---|---|---|
+| 1 | Takeoff Capital | #1 | Custom | Joey Kim GP/MD |
+| 2 | Heartland Ventures | #2 | Custom | Columbus OH neighbor |
+| 3 | Suffolk Technologies | #3 | Template | GC-backed, Boston |
+| 4 | Great Wave Ventures | #4 | Template | NYC, construction/RE/logistics |
+| 5 | Paumanok Ventures | #5 | Template | NY, vertical SaaS + AI |
+| 6 | Erez Capital | #6 | Template | Beverly Hills, PropTech + AI |
+| 7 | Hometeam Ventures | #7 | Template | SF, construction + contech |
+| 8 | Nirman Ventures | #8 | Template | DE, Built Environment |
+| 9 | Persistence Partners | #9 | Template | CA, construction + enterprise software |
+| 10 | Zell Capital | #10 | Template | Columbus OH neighbor |
+
+### BACKBURNER LIST (template only, low priority)
+- Backyard Ventures — residential PropTech, template only
+- NOVA Saint-Gobain — corporate VC, France HQ, template only
+
+### CUSTOM NOTES WRITTEN (saved in this session):
+**Joey Kim (Takeoff Capital):** References EquipmentShare, $250M–$300M projects, full AI ecosystem, Learning Loop
+**Heartland Ventures:** Ohio neighbor angle (Portsmouth, 75mi south of Columbus), same AI/product points
 
 ---
 
@@ -57,7 +71,7 @@
 |---|---|
 | App repo | github.com/Clfrye21/Meridian |
 | Landing repo | github.com/Clfrye21/meridian-landing |
-| **Docs repo** | github.com/Clfrye21/meridian-docs |
+| Docs repo | github.com/Clfrye21/meridian-docs |
 | Landing latest commit | dfd64c9 |
 | Wefunder | wefunder.com/meridian.field.command |
 | OpenVC | openvc.app (account active, deck uploaded) |
@@ -70,7 +84,7 @@
 
 ## 🏗️ BUILD STATUS
 - **Phase 2 Tier 2:** ✅ Complete (April 26, 2026)
-- **Phase 3A:** 🔄 Up next
+- **Phase 3A:** 🔄 Up next after outreach is running
 - **Stack:** React + Supabase | Vercel (landing live, app planned)
 
 ---
@@ -113,3 +127,4 @@ Repo: `github.com/Clfrye21/meridian-docs`
 - Andrew Scott / Solstice (resolved — Chris is sole owner)
 - OpenVC vs Wefunder distinction (OpenVC = discovery only, not funding)
 - Two decks (there is ONE deck — Claude wrote content, second AI built visuals)
+- Custom notes for Joey Kim and Heartland (written, saved in session history)
